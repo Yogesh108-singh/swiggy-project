@@ -53,6 +53,7 @@ npm start
 📸 Screenshots
 
 (Add screenshots of your homepage, cart, and login page here)
+<img width="1366" height="728" alt="Zomato and 3 more pages - Profile 1 - Microsoft​ Edge 25-09-2025 21_34_47" src="https://github.com/user-attachments/assets/feb7ba5f-3b85-4cc2-a3a3-ef7923a9b700" />
 
 🌐 Deployment
 
@@ -60,3 +61,4 @@ Frontend → Vercel
 
 Backend → Render
  / Heroku
+
